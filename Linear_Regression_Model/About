@@ -9,3 +9,6 @@ This file (`linear_regression_model.ipynb`) contains a **linear regression model
 - Predictions vs actual visualization included
 
 This file can be run independently and demonstrates a clean workflow from raw data to model evaluation.
+This project currently implements a baseline linear regression model for housing price prediction.
+In the next phase, I plan to explore more advanced models such as Random Forest, XGBoost, and LightGBM to further improve prediction accuracy. 
+This demonstrates a continuous learning approach and a growth mindset in machine learning.
