@@ -1,0 +1,11 @@
+# Housing Prices Linear Regression Model
+
+This file (`HousingPrices_LinearRegression.ipynb`) contains a **linear regression model** for predicting house prices using the Kaggle House Prices dataset. 
+
+**Key features:**
+- Data preprocessing: missing value handling, categorical encoding, scaling
+- Model training: Linear Regression
+- Evaluation: R² = 0.89, RMSE = 0.11, RMSLE = 0.16
+- Predictions vs actual visualization included
+
+This file can be run independently and demonstrates a clean workflow from raw data to model evaluation.
